@@ -1,0 +1,62 @@
+{
+  "currentUser": "IT24103866",
+  "currentDate": "2025-05-02 20:10:12",
+  "users": [
+    {
+      "lastLogin": "2025-05-01 19:30:00 (UTC)",
+      "emailVerified": true,
+      "password": "admin123",
+      "role": "admin",
+      "address": "",
+      "registrationDate": "2025-05-03 01:47:39 (UTC)",
+      "contactNumber": "",
+      "fullName": "System Administrator",
+      "active": true,
+      "id": "USR00000001",
+      "email": "admin@propertyfinder.com",
+      "username": "admin"
+    },
+    {
+      "lastLogin": "2025-05-01 15:45:20 (UTC)",
+      "emailVerified": true,
+      "password": "manager123",
+      "role": "manager",
+      "address": "",
+      "registrationDate": "2025-05-03 01:47:39 (UTC)",
+      "contactNumber": "",
+      "fullName": "Sales Manager",
+      "active": true,
+      "id": "USR00000002",
+      "email": "manager@propertyfinder.com",
+      "username": "manager"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": true,
+      "password": "123456",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-04 19:59:33 (UTC)",
+      "contactNumber": "07148569",
+      "fullName": "thisula deshan",
+      "active": true,
+      "id": "USR58284423",
+      "email": "thisula@gmail.com",
+      "username": "thisula "
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": true,
+      "password": "123456",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-04 20:00:26 (UTC)",
+      "contactNumber": "0789456102",
+      "fullName": "Ometh Kalindu",
+      "active": true,
+      "id": "USR13430563",
+      "email": "Kalindu@gmail.com",
+      "username": "Kalindu "
+    }
+  ]
+}
