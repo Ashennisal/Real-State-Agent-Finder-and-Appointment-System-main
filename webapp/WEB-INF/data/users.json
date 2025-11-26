@@ -1,0 +1,62 @@
+{
+  "currentUser": "IT24103866",
+  "currentDate": "2025-05-02 20:10:12",
+  "users": [
+    {
+      "lastLogin": "",
+      "emailVerified": false,
+      "password": "admin123",
+      "role": "admin",
+      "address": "",
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "contactNumber": "",
+      "fullName": "System Administrator",
+      "active": true,
+      "id": "USR00000001",
+      "email": "admin@propertyfinder.com",
+      "username": "admin"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": false,
+      "password": "manager123",
+      "role": "manager",
+      "address": "",
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "contactNumber": "",
+      "fullName": "Office Manager",
+      "active": true,
+      "id": "USR00000002",
+      "email": "manager@propertyfinder.com",
+      "username": "manager"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": false,
+      "password": "user123",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-03 01:05:48 (UTC)",
+      "contactNumber": "",
+      "fullName": "Regular User",
+      "active": true,
+      "id": "USR00000003",
+      "email": "user@propertyfinder.com",
+      "username": "user"
+    },
+    {
+      "lastLogin": "",
+      "emailVerified": true,
+      "password": "789456",
+      "role": "user",
+      "address": "",
+      "registrationDate": "2025-05-11 00:15:56 (UTC)",
+      "contactNumber": "741852963",
+      "fullName": "dinidu",
+      "active": true,
+      "id": "USR46431656",
+      "email": "kri@gmail.com",
+      "username": "Krishmal"
+    }
+  ]
+}
